@@ -10,6 +10,8 @@ A Streamlit application that provides an AI-powered shopping experience with rec
 - Checkout process
 - User behavior tracking
 
+![Description](screenshots/image1.png)
+
 ## Installation
 
 ```bash
@@ -25,6 +27,6 @@ pip install -r requirements.txt
 # Run the application
 streamlit run app.py
 
-![Description](screenshots/image1.png)
+
 
 
