@@ -10,8 +10,6 @@ A Streamlit application that provides an AI-powered shopping experience with rec
 - Checkout process
 - User behavior tracking
 
-!(screenshots/image1.png)
-
 ## Installation
 
 ```bash
