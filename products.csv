@@ -1,0 +1,1301 @@
+product_id,product_name,category,price,rating
+101,"Minimalist Wall Clock","Home Decor",499,4.5
+102,"Oversized Hoodie - Pink","Clothing",899,4.2
+103,"Wooden Coffee Table","Furniture",1499,4.8
+104,"Portable Blender","Electronics",999,3.9
+105,"Bluetooth Speaker","Electronics",699,4.6
+106,"Smart LED Bulb","Electronics",399,4.3
+107,"Cotton Throw Pillow","Home Decor",299,4.7
+108,"Stainless Steel Water Bottle","Kitchen",449,4.4
+109,"Wireless Earbuds","Electronics",1299,4.5
+110,"Yoga Mat","Fitness",599,4.2
+111,"French Press Coffee Maker","Kitchen",649,4.8
+112,"Succulent Plant Set","Home Decor",349,4.3
+113,"Ceramic Dinner Set","Kitchen",1199,4.6
+114,"Bamboo Cutting Board","Kitchen",399,4.7
+115,"Digital Food Scale","Kitchen",549,4.4
+116,"Wireless Charging Pad","Electronics",799,4.2
+117,"Essential Oil Diffuser","Home Decor",649,4.6
+118,"Resistance Bands Set","Fitness",449,4.5
+119,"Stainless Steel Cookware Set","Kitchen",2499,4.8
+120,"Smart Fitness Tracker","Electronics",1799,4.7
+121,"Knit Throw Blanket","Home Decor",899,4.5
+122,"Desk Organizer","Home Office",549,4.3
+123,"Laptop Stand","Home Office",799,4.6
+124,"Mechanical Keyboard","Electronics",1299,4.7
+125,"Ergonomic Office Chair","Furniture",3499,4.8
+126,"Geometric Bookshelf","Furniture",1899,4.5
+127,"Nonstick Frying Pan","Kitchen",699,4.4
+128,"Himalayan Salt Lamp","Home Decor",549,4.2
+129,"Smart Wi-Fi Router","Electronics",1599,4.7
+130,"Cotton Bedsheet Set","Bedding",1299,4.6
+131,"Microfiber Towel Set","Bath",799,4.5
+132,"Stainless Steel Kitchen Knife Set","Kitchen",1299,4.8
+133,"Cordless Vacuum Cleaner","Home Appliances",2799,4.6
+134,"Air Purifier","Home Appliances",2499,4.7
+135,"Weighted Blanket","Bedding",1499,4.4
+136,"USB-C Hub Adapter","Electronics",899,4.3
+137,"Ceramic Plant Pot","Home Decor",349,4.5
+138,"Smart Door Lock","Home Security",3499,4.6
+139,"Noise Cancelling Headphones","Electronics",1999,4.8
+140,"Digital Drawing Tablet","Electronics",2499,4.5
+141,"Adjustable Dumbbell Set","Fitness",2999,4.7
+142,"Bathroom Scale","Bath",699,4.3
+143,"Scented Candle Set","Home Decor",499,4.4
+144,"Non-stick Baking Set","Kitchen",999,4.5
+145,"Memory Foam Pillow","Bedding",799,4.6
+146,"Solar Power Bank","Electronics",899,4.3
+147,"Smartphone Gimbal","Electronics",1299,4.5
+148,"Bluetooth Keyboard","Electronics",799,4.4
+149,"Mini Portable Projector","Electronics",4999,4.6
+150,"Rattan Storage Basket","Home Decor",449,4.5
+151,"Smart Doorbell Camera","Home Security",2499,4.7
+152,"Cast Iron Dutch Oven","Kitchen",1799,4.8
+153,"Electric Kettle","Kitchen",899,4.6
+154,"Slow Cooker","Kitchen",1299,4.5
+155,"Document Scanner","Home Office",2999,4.4
+156,"Wireless Mouse","Electronics",499,4.3
+157,"Foam Roller","Fitness",599,4.5
+158,"Hanging Planter","Home Decor",349,4.4
+159,"Juicer Machine","Kitchen",1799,4.6
+160,"Car Phone Mount","Automotive",299,4.2
+161,"Cordless Drill Set","Tools",1999,4.7
+162,"Smart Light Switch","Electronics",899,4.5
+163,"Kitchen Scale","Kitchen",549,4.4
+164,"Wireless Printer","Home Office",3499,4.6
+165,"Indoor Security Camera","Home Security",1799,4.5
+166,"Neck Massager","Health",899,4.3
+167,"Wool Area Rug","Home Decor",1999,4.6
+168,"Reusable Food Storage Bags","Kitchen",399,4.2
+169,"Touchscreen Gloves","Clothing",349,4.0
+170,"Bluetooth Car Adapter","Automotive",499,4.3
+171,"Fitness Jump Rope","Fitness",249,4.5
+172,"Plant Stand","Home Decor",699,4.4
+173,"Wireless Doorbell","Home Security",799,4.5
+174,"Kitchen Timer","Kitchen",199,4.2
+175,"USB Rechargeable Lighter","Home Decor",349,4.0
+176,"Silicone Baking Mats","Kitchen",449,4.6
+177,"Collapsible Water Bottle","Sports",349,4.3
+178,"Wooden Desk Lamp","Home Decor",899,4.5
+179,"Bike Phone Mount","Sports",399,4.2
+180,"Electric Toothbrush","Health",999,4.7
+181,"Closet Organizer Set","Home Decor",799,4.4
+182,"Insulated Travel Mug","Kitchen",399,4.5
+183,"Bath Towel Set","Bath",999,4.6
+184,"Smartphone Tripod","Electronics",449,4.3
+185,"Outdoor String Lights","Home Decor",649,4.5
+186,"Resistance Loop Bands","Fitness",299,4.4
+187,"Vegetable Chopper","Kitchen",549,4.3
+188,"Wireless Security System","Home Security",4999,4.8
+189,"Bedside Lamp","Home Decor",699,4.5
+190,"Electric Coffee Grinder","Kitchen",799,4.4
+191,"Plant Grow Light","Home Decor",599,4.3
+192,"Shoe Organizer","Home Decor",449,4.2
+193,"Microwave Rice Cooker","Kitchen",349,4.1
+194,"Pet Hair Remover","Home Appliances",299,4.4
+195,"Spice Rack Organizer","Kitchen",549,4.5
+196,"Yoga Block Set","Fitness",349,4.3
+197,"Desktop Monitor Stand","Home Office",799,4.5
+198,"Digital Meat Thermometer","Kitchen",399,4.6
+199,"Smart Power Strip","Electronics",699,4.4
+200,"Handheld Garment Steamer","Home Appliances",799,4.3
+201,"Multi-tool Pocket Knife","Tools",599,4.5
+202,"Blackout Curtains","Home Decor",899,4.6
+203,"Wooden Coasters Set","Home Decor",249,4.3
+204,"Electric Hand Mixer","Kitchen",699,4.4
+205,"Wireless Webcam","Electronics",1499,4.5
+206,"Adjustable Laptop Table","Furniture",999,4.3
+207,"Silicone Cooking Utensil Set","Kitchen",599,4.5
+208,"Portable SSD Drive","Electronics",1999,4.7
+209,"Smart Watch","Electronics",2499,4.6
+210,"Bluetooth Beanie Hat","Clothing",499,3.9
+211,"Glass Food Storage Containers","Kitchen",699,4.5
+212,"Wireless Earphones","Electronics",1599,4.6
+213,"Collapsible Laundry Basket","Home Decor",399,4.2
+214,"Car Dash Cam","Automotive",1299,4.5
+215,"LED Desk Lamp","Home Office",699,4.4
+216,"Glass Tea Kettle","Kitchen",599,4.6
+217,"Digital Alarm Clock","Home Decor",449,4.3
+218,"Portable Hammock","Outdoor",899,4.5
+219,"Silicone Ice Cube Trays","Kitchen",249,4.2
+220,"Wireless Gaming Controller","Electronics",999,4.5
+221,"Bathroom Organizer","Bath",549,4.3
+222,"Smartphone Lens Kit","Electronics",699,4.1
+223,"Bamboo Drawer Organizer","Home Decor",499,4.4
+224,"Flexible Tripod","Electronics",399,4.2
+225,"Reusable Produce Bags","Kitchen",249,4.3
+226,"Electric Wine Opener","Kitchen",599,4.4
+227,"Microfiber Cleaning Cloths","Home Appliances",199,4.5
+228,"Shower Caddy","Bath",349,4.2
+229,"Fitness Exercise Cards","Fitness",299,4.0
+230,"Touchless Soap Dispenser","Bath",499,4.4
+231,"Fabric Steamer","Home Appliances",899,4.5
+232,"Desktop USB Hub","Electronics",599,4.3
+233,"Electric Tea Kettle","Kitchen",799,4.6
+234,"Body Weight Scale","Health",549,4.4
+235,"Indoor Herb Garden Kit","Home Decor",799,4.3
+236,"Wall Mounted Bottle Opener","Kitchen",199,4.1
+237,"Wireless Door Sensor","Home Security",449,4.5
+238,"Bamboo Bath Mat","Bath",699,4.4
+239,"Portable Bluetooth Keyboard","Electronics",899,4.2
+240,"LED Strip Lights","Home Decor",499,4.5
+241,"Silicone Baking Cups","Kitchen",199,4.3
+242,"Car Phone Holder","Automotive",399,4.4
+243,"Stainless Steel Straws","Kitchen",149,4.5
+244,"Floating Wall Shelves","Home Decor",649,4.6
+245,"Mosquito Repellent Bracelet","Outdoor",199,3.8
+246,"Smartphone Car Mount","Automotive",449,4.3
+247,"Bamboo Serving Tray","Kitchen",549,4.5
+248,"Handheld Milk Frother","Kitchen",299,4.2
+249,"Cable Management Box","Home Office",399,4.4
+250,"USB Desk Fan","Home Office",349,4.1
+251,"Reusable Coffee Filter","Kitchen",199,4.0
+252,"Wool Dryer Balls","Home Appliances",249,4.3
+253,"Cold Brew Coffee Maker","Kitchen",599,4.5
+254,"Smart Plug","Electronics",499,4.4
+255,"Vegetable Spiralizer","Kitchen",449,4.2
+256,"Indoor Thermometer","Home Decor",299,4.3
+257,"Laptop Privacy Screen","Home Office",799,4.2
+258,"Microwave Cover","Kitchen",199,4.0
+259,"Magnetic Spice Jars","Kitchen",699,4.5
+260,"Wireless Meat Thermometer","Kitchen",799,4.6
+261,"Sink Caddy","Kitchen",249,4.2
+262,"Waterproof Bluetooth Speaker","Electronics",999,4.5
+263,"Tea Infuser","Kitchen",199,4.3
+264,"Cable Clips Organizer","Home Office",149,4.2
+265,"Charging Station Dock","Electronics",799,4.5
+266,"Sink Splash Guard","Kitchen",199,3.9
+267,"Food Storage Container Set","Kitchen",699,4.4
+268,"Stackable Drawer Organizer","Home Decor",449,4.3
+269,"Bamboo Phone Stand","Home Office",299,4.2
+270,"Car Vacuum Cleaner","Automotive",999,4.4
+271,"Bluetooth Sleep Headphones","Electronics",599,4.1
+272,"Silicone Splatter Screen","Kitchen",249,4.2
+273,"Bedside Shelf","Furniture",499,4.3
+274,"Compact Mirror","Health",199,4.0
+275,"Rotating Makeup Organizer","Health",699,4.5
+276,"Garden Tool Set","Outdoor",899,4.6
+277,"Desktop Power Strip","Home Office",599,4.3
+278,"Dish Drying Rack","Kitchen",499,4.4
+279,"Adjustable Cake Slicer","Kitchen",199,4.0
+280,"Electric Callus Remover","Health",499,4.3
+281,"Portable Clothes Steamer","Home Appliances",699,4.4
+282,"Wireless Earbuds Case","Electronics",299,4.2
+283,"Salad Spinner","Kitchen",449,4.3
+284,"LED Book Light","Home Decor",199,4.1
+285,"Reusable Beeswax Wraps","Kitchen",349,4.0
+286,"Compression Socks Set","Clothing",399,4.2
+287,"Car Seat Gap Filler","Automotive",249,4.1
+288,"Cutting Board with Container","Kitchen",599,4.4
+289,"Glass Teapot with Infuser","Kitchen",599,4.5
+290,"Shower Speaker","Electronics",699,4.2
+291,"Drawer Dividers","Home Decor",399,4.3
+292,"Kitchen Sink Organizer","Kitchen",349,4.2
+293,"Bathroom Mirror","Bath",799,4.5
+294,"Vacuum Storage Bags","Home Decor",499,4.3
+295,"Digital Kitchen Timer","Kitchen",249,4.2
+296,"Portable Charger","Electronics",799,4.6
+297,"Wine Aerator","Kitchen",299,4.1
+298,"Laptop Cooling Pad","Electronics",699,4.3
+299,"Food Processor","Kitchen",1999,4.7
+300,"Electric Callus Remover","Health",599,4.2
+301,"Mini Desk Vacuum","Home Office",349,4.0
+302,"Emergency Weather Radio","Electronics",699,4.4
+303,"Packing Cubes Set","Travel",499,4.5
+304,"Pet Hair Remover Brush","Pets",299,4.3
+305,"Cable Management Sleeve","Home Office",249,4.2
+306,"Toilet Paper Holder","Bath",349,4.1
+307,"Portable Bluetooth Speaker","Electronics",999,4.6
+308,"Wine Glass Set","Kitchen",799,4.5
+309,"Shower Head Filter","Bath",499,4.2
+310,"Grill Brush","Kitchen",349,4.3
+311,"Yoga Strap","Fitness",199,4.1
+312,"Digital Indoor Thermometer","Home Decor",399,4.2
+313,"Kitchen Utensil Rest","Kitchen",199,4.0
+314,"Mandoline Slicer","Kitchen",549,4.4
+315,"Stainless Steel Compost Bin","Kitchen",599,4.3
+316,"Essential Oil Set","Health",799,4.4
+317,"Bike Phone Holder","Sports",349,4.2
+318,"Fridge Storage Bins","Kitchen",449,4.3
+319,"Silicone Baking Molds","Kitchen",349,4.1
+320,"Computer Cleaning Kit","Electronics",399,4.2
+321,"Compact First Aid Kit","Health",299,4.5
+322,"Digital Luggage Scale","Travel",249,4.2
+323,"Bamboo Dish Brush","Kitchen",149,4.0
+324,"Electronic Bug Zapper","Home Decor",399,4.1
+325,"Laptop Privacy Screen Protector","Electronics",599,4.3
+326,"Facial Cleansing Brush","Health",499,4.2
+327,"Touchless Forehead Thermometer","Health",799,4.6
+328,"Wall-Mounted Toothbrush Holder","Bath",249,4.1
+329,"Egg Cooker","Kitchen",399,4.3
+330,"Anti-Fatigue Kitchen Mat","Kitchen",599,4.4
+331,"Air Fryer","Kitchen",2499,4.7
+332,"Adjustable Phone Stand","Electronics",299,4.2
+333,"Over-the-Door Organizer","Home Decor",449,4.3
+334,"Kitchen Backsplash Peel and Stick","Home Decor",599,4.1
+335,"Car Trash Can","Automotive",249,4.2
+336,"Waterproof Playing Cards","Sports",199,4.0
+337,"Bread Box","Kitchen",599,4.4
+338,"Digital Photo Frame","Electronics",1499,4.5
+339,"Over Door Hook Organizer","Home Decor",299,4.2
+340,"Silicone Oven Mitts","Kitchen",399,4.3
+341,"Cordless Water Flosser","Health",899,4.5
+342,"Handheld Vacuum","Home Appliances",999,4.4
+343,"Stainless Steel Soap Bar","Kitchen",199,3.9
+344,"Wireless Keyboard and Mouse Combo","Electronics",999,4.5
+345,"Anti-Slip Bathtub Mat","Bath",399,4.2
+346,"Fabric Defuzzer","Home Appliances",349,4.3
+347,"Measuring Cup Set","Kitchen",299,4.4
+348,"Bath Bomb Set","Bath",399,4.2
+349,"Aromatherapy Diffuser","Home Decor",699,4.5
+350,"Wool Dryer Balls Set","Home Appliances",299,4.1
+351,"Car Windshield Sun Shade","Automotive",349,4.2
+352,"Glass Spray Bottles Set","Home Appliances",399,4.0
+353,"Motion Sensor Night Light","Home Decor",299,4.3
+354,"Microwave Splatter Cover","Kitchen",199,4.0
+355,"Phone Sanitizer Box","Electronics",799,4.4
+356,"Airtight Food Storage Container Set","Kitchen",799,4.5
+357,"Shower Curtain with Pockets","Bath",399,4.1
+358,"Laptop Sleeve Case","Electronics",599,4.4
+359,"Pill Organizer Box","Health",249,4.2
+360,"Bamboo Toilet Paper","Bath",399,4.0
+361,"Wooden Puzzle Set","Toys",599,4.4
+362,"Shower Squeegee","Bath",249,4.1
+363,"Phone Tripod Stand","Electronics",399,4.3
+364,"Waterproof Phone Pouch","Electronics",299,4.0
+365,"Dryer Vent Cleaner Kit","Home Appliances",399,4.2
+366,"Measuring Spoon Set","Kitchen",199,4.3
+367,"Digital Coin Bank","Home Decor",399,4.1
+368,"Roll-Up Dish Drying Rack","Kitchen",349,4.2
+369,"Travel Jewelry Organizer","Travel",399,4.3
+370,"Natural Wool Dryer Balls","Home Appliances",299,4.1
+371,"Massage Gun","Fitness",1999,4.6
+372,"Meat Shredder Claws","Kitchen",249,4.2
+373,"Anti-Fog Mirror Film","Bath",199,3.9
+374,"Small Space Heater","Home Appliances",799,4.3
+375,"Mini Waffle Maker","Kitchen",599,4.4
+376,"Retractable Clothesline","Home Appliances",349,4.0
+377,"Refrigerator Door Handle Covers","Kitchen",199,3.9
+378,"Hands-Free Phone Holder","Home Office",349,4.1
+379,"Car Cup Holder Phone Mount","Automotive",299,4.2
+380,"Waterproof Car Seat Protector","Automotive",499,4.3
+381,"Slim Wallet with Money Clip","Fashion",399,4.2
+382,"Adjustable Tablet Stand","Electronics",499,4.3
+383,"Water Flosser","Health",799,4.5
+384,"Silicone Garlic Peeler","Kitchen",149,4.0
+385,"WiFi Range Extender","Electronics",999,4.4
+386,"Car USB Charger","Automotive",299,4.3
+387,"Mini Desk Humidifier","Home Office",399,4.2
+388,"Freezer Storage Containers","Kitchen",499,4.3
+389,"Wine Bottle Stopper Set","Kitchen",299,4.1
+390,"Pill Crusher and Cutter","Health",199,4.0
+391,"Gas Can","Automotive",449,4.2
+392,"Bamboo Sushi Making Kit","Kitchen",599,4.3
+393,"Silicone Stretch Lids","Kitchen",349,4.2
+394,"Mini Fridge","Kitchen",2999,4.6
+395,"Sunrise Alarm Clock","Electronics",999,4.4
+396,"Dishwasher Magnet Clean/Dirty Sign","Kitchen",199,4.0
+397,"Bedsheet Fasteners","Bedding",199,3.9
+398,"Mosquito Repellent Bracelet Set","Outdoor",299,3.8
+399,"Fabric Shower Curtain","Bath",499,4.3
+400,"Eyeglass Cleaning Kit","Health",249,4.1
+401,"Pet Water Fountain","Pets",799,4.4
+402,"Outdoor Solar Lights","Garden",599,4.3
+403,"Stainless Steel Ice Cubes","Kitchen",349,4.0
+404,"Collapsible Salad Spinner","Kitchen",499,4.2
+405,"Meat Tenderizer Tool","Kitchen",249,4.1
+406,"Milk Frother","Kitchen",399,4.3
+407,"Silicone Baking Mat Set","Kitchen",449,4.4
+408,"Mini Dehumidifier","Home Appliances",699,4.2
+409,"Acupressure Mat and Pillow Set","Health",899,4.3
+410,"Bamboo Shoe Rack","Home Decor",699,4.4
+411,"Reusable Makeup Remover Pads","Health",249,4.1
+412,"Glass Food Storage Containers Set","Kitchen",899,4.5
+413,"Waterproof Picnic Blanket","Outdoor",599,4.2
+414,"Tea Bag Organizer Box","Kitchen",349,4.0
+415,"Wooden Desk Organizer","Home Office",599,4.3
+416,"Rotating Utensil Holder","Kitchen",399,4.2
+417,"Silicone Soap Dish","Bath",149,4.0
+418,"Portable Neck Fan","Electronics",399,4.1
+419,"Fabric Storage Bins","Home Decor",499,4.3
+420,"Cordless Hand Vacuum","Home Appliances",1299,4.5
+421,"Bamboo Cheese Board Set","Kitchen",899,4.6
+422,"Jewelry Cleaning Kit","Fashion",349,4.1
+423,"Windshield Wiper Blades","Automotive",499,4.3
+424,"Smartphone Card Holder","Fashion",199,4.0
+425,"Bamboo Toilet Paper Holder","Bath",349,4.1
+426,"Magnetic Spice Tins","Kitchen",599,4.4
+427,"Indoor/Outdoor Thermometer","Home Decor",399,4.2
+428,"Bamboo Cookbook Stand","Kitchen",399,4.3
+429,"Avocado Saver","Kitchen",199,3.9
+430,"Bag Sealer Clips","Kitchen",149,4.0
+431,"Smart Dimmer Switch","Electronics",899,4.4
+432,"Banana Hanger","Kitchen",199,3.8
+433,"Face Mask Sheet Set","Health",399,4.2
+434,"Digital Shower Timer","Bath",299,4.0
+435,"Pet Hair Remover Glove","Pets",299,4.2
+436,"Weighted Eye Mask","Health",399,4.3
+437,"Microwave Rice Cooker","Kitchen",499,4.2
+438,"Silicone Toothbrush Holder","Bath",199,4.0
+439,"Cork Yoga Block","Fitness",499,4.3
+440,"Handheld Steamer","Home Appliances",799,4.4
+441,"Mini Drone","Electronics",1999,4.5
+442,"Smartphone UV Sanitizer","Electronics",699,4.3
+443,"Magnetic Screen Door","Home Decor",599,4.2
+444,"Digital Pocket Scale","Kitchen",399,4.2
+445,"Produce Keeper Containers","Kitchen",499,4.3
+446,"Fabric Upholstery Cleaner","Home Appliances",499,4.2
+447,"Wine Chiller Stick","Kitchen",399,4.1
+448,"Electric Wine Opener","Kitchen",799,4.4
+449,"Waterproof Speaker","Electronics",999,4.5
+450,"Silicone Dish Scrubber","Kitchen",199,4.0
+451,"Blackout Sleep Mask","Health",299,4.2
+452,"Portable Utensil Set","Kitchen",299,4.1
+453,"Fabric Face Mask Set","Health",299,4.0
+454,"LED Makeup Mirror","Health",599,4.4
+455,"Fridge Deodorizer","Kitchen",199,4.0
+456,"Pet Hair Lint Roller","Pets",249,4.2
+457,"Collapsible Food Storage Containers","Kitchen",499,4.3
+458,"Bamboo Soap Dish","Bath",199,4.1
+459,"Massage Roller Ball","Health",299,4.2
+460,"Air Purifying Bags","Home Decor",299,4.0
+461,"Magnetic Key Holder","Home Decor",199,4.1
+462,"Digital Pocket Scale","Kitchen",399,4.3
+463,"Vegetable Peeler Set","Kitchen",299,4.2
+464,"Pet Odor Eliminator","Pets",349,4.1
+465,"Silicone Wine Stopper Set","Kitchen",249,4.0
+466,"Drain Snake Cleaner Tool","Home Appliances",199,4.2
+467,"Glass Meal Prep Containers","Kitchen",899,4.5
+468,"Key Finder Tracker","Electronics",499,4.3
+469,"Bathroom Floor Mat","Bath",399,4.2
+470,"Sleep Sound Machine","Electronics",899,4.4
+471,"Shower Door Seal Strip","Bath",249,4.0
+472,"USB Wall Charger","Electronics",399,4.3
+473,"Facial Cleansing Sponge Set","Health",199,4.0
+474,"Foldable Shopping Bag Set","Home Decor",299,4.2
+475,"Bathroom Squeegee","Bath",249,4.1
+476,"Apple AirTag","Electronics",2999,4.7
+477,"Magnetic Shopping List","Home Decor",199,4.0
+478,"Couch Cup Holder","Home Decor",349,4.1
+479,"Pet Food Storage Container","Pets",499,4.3
+480,"Fruit Infuser Water Bottle","Kitchen",399,4.2
+481,"Desk Phone Holder","Home Office",299,4.1
+482,"Knife Sharpener","Kitchen",399,4.3
+483,"Cable Management Box","Home Office",449,4.2
+484,"Mini Handheld Fan","Electronics",299,4.0
+485,"Silicone Spatula Set","Kitchen",399,4.4
+486,"Shower Caddy Organizer","Bath",499,4.3
+487,"Sleep Headphones","Electronics",599,4.2
+488,"Mini Security Camera","Home Security",1299,4.5
+489,"Bathroom Phone Holder","Bath",249,3.9
+490,"Potty Training Timer Watch","Kids",399,4.0
+491,"Pill Box with Timer","Health",499,4.3
+492,"Pet Toys Set","Pets",399,4.2
+493,"Fitness Resistance Bands","Fitness",499,4.4
+494,"Carbon Monoxide Detector","Home Security",699,4.5
+495,"Webcam Cover Slides","Electronics",149,4.0
+496,"Bottle Brush Cleaner","Kitchen",199,4.1
+497,"Candle Warmer Lamp","Home Decor",499,4.2
+498,"Car Trash Bin","Automotive",299,4.0
+499,"Electronic Bug Zapper","Home Appliances",599,4.3
+500,"Thermal Travel Mug","Kitchen",499,4.4
+501,"Phone Lens Kit","Electronics",599,4.1
+502,"Meat Thermometer","Kitchen",399,4.3
+503,"Refrigerator Storage Bins","Kitchen",449,4.2
+504,"Copper Compression Socks","Health",399,4.3
+505,"Laptop Table for Bed","Furniture",899,4.4
+506,"Touchless Soap Dispenser","Bath",499,4.3
+507,"Desk Pad Protector","Home Office",499,4.2
+508,"Electric Lint Remover","Home Appliances",399,4.1
+509,"Garden Kneeling Pad","Garden",299,4.2
+510,"LED Motion Sensor Light","Home Decor",399,4.3
+511,"Essential Oil Organizer","Health",349,4.0
+512,"Measuring Cups and Spoons Set","Kitchen",399,4.4
+513,"Sink Shelf Organizer","Kitchen",299,4.1
+514,"Electric Callus Remover","Health",499,4.2
+515,"Microfiber Mop","Home Appliances",599,4.3
+516,"USB Reading Light","Electronics",299,4.0
+517,"Tongue Scraper","Health",149,4.0
+518,"Car Seat Gap Filler","Automotive",249,4.1
+519,"Adjustable Tablet Stand","Electronics",499,4.3
+520,"Nail Clipper Set","Health",299,4.2
+521,"Pet Hair Broom","Pets",399,4.3
+522,"Knife Block Set","Kitchen",999,4.5
+523,"Sleep Sound Machine","Electronics",799,4.4
+524,"Touchless Thermometer","Health",699,4.3
+525,"Produce Bags Reusable Set","Kitchen",299,4.2
+526,"Digital BBQ Thermometer","Kitchen",599,4.4
+527,"Pasta Maker","Kitchen",999,4.5
+528,"Dry Bag Waterproof Backpack","Outdoor",699,4.4
+529,"Furniture Leg Pads","Home Decor",199,4.0
+530,"Disposable Face Masks Box","Health",299,4.1
+531,"Shower Head Water Filter","Bath",499,4.3
+532,"Microfiber Makeup Remover Cloth","Health",199,4.0
+533,"Smart Tag Tracker","Electronics",499,4.3
+534,"Child Safety Cabinet Locks","Kids",299,4.2
+535,"Makeup Organizer Display","Health",699,4.4
+536,"Rice Dispenser Container","Kitchen",499,4.2
+537,"Heat Resistant Gloves","Kitchen",399,4.3
+538,"Reusable Food Pouches","Kitchen",299,4.0
+539,"Paper Towel Holder","Kitchen",299,4.1
+540,"Mini USB Vacuum Cleaner","Electronics",349,4.0
+541,"Silicone Oven Rack Protector","Kitchen",199,4.0
+542,"Smartphone Tripod Stand","Electronics",399,4.2
+543,"Wine Bottle Stopper Vacuum Seal","Kitchen",299,4.1
+544,"Dog Grooming Gloves","Pets",349,4.2
+545,"Desk Headphone Stand","Home Office",399,4.3
+546,"Waterproof Temporary Tattoos","Fashion",199,3.8
+547,"Wood Polish and Conditioner","Home Appliances",299,4.1
+548,"Travel Containers Set","Travel",349,4.2
+549,"LED Night Light","Home Decor",299,4.3
+550,"Herb Scissors","Kitchen",199,4.1
+551,"Smart Plant Pot","Home Decor",799,4.3
+552,"Avocado Slicer Tool","Kitchen",249,4.0
+553,"Vitamin C Shower Filter","Bath",499,4.2
+554,"Desktop Vacuum Cleaner","Home Office",349,4.1
+555,"Magnetic Refrigerator Whiteboard","Home Decor",299,4.2
+556,"Shoe Deodorizer Balls","Home Appliances",199,3.9
+557,"Portable Espresso Maker","Kitchen",899,4.4
+558,"Water Bottle with Time Marker","Health",399,4.3
+559,"Drawer Organizer Dividers","Home Decor",349,4.2
+560,"Wireless Video Doorbell","Home Security",2499,4.6
+561,"Fabric Steamer","Home Appliances",799,4.4
+562,"Adjustable Tablet Stand","Electronics",449,4.2
+563,"Hair Scalp Massager","Health",299,4.1
+564,"Kitchen Compost Bin","Kitchen",499,4.3
+565,"Silicone Garlic Peeler Roller","Kitchen",149,4.0
+566,"Foot Massage Roller","Health",299,4.2
+567,"Microwave Egg Poacher","Kitchen",249,4.1
+568,"Pet Grooming Brush","Pets",349,4.3
+569,"Wine Bottle Opener Set","Kitchen",599,4.4
+570,"Milk Frother Wand","Kitchen",299,4.2
+571,"Smart Key Finder","Electronics",499,4.3
+572,"Portable Ice Maker","Kitchen",2999,4.7
+573,"Shower Hair Catcher","Bath",199,4.1
+574,"Magnetic Wristband for Tools","Tools",249,4.2
+575,"Bamboo Monitor Stand","Home Office",599,4.4
+576,"Electric Air Popcorn Maker","Kitchen",699,4.3
+577,"Food Vacuum Sealer","Kitchen",1499,4.5
+578,"Selfie Ring Light","Electronics",399,4.2
+579,"Foldable Laptop Stand","Home Office",599,4.3
+580,"Couch Arm Table","Furniture",499,4.1
+581,"Flexible Garden Hose","Garden",799,4.4
+582,"Handheld Document Scanner","Home Office",1999,4.5
+583,"Aromatherapy Car Diffuser","Automotive",399,4.0
+584,"Full Body Massage Mat","Health",1999,4.5
+585,"Knife Sharpening Stone","Kitchen",599,4.3
+586,"Bluetooth FM Transmitter","Automotive",399,4.2
+587,"Electric Razor","Electronics",1299,4.6
+588,"Smart WiFi Light Bulb","Electronics",499,4.4
+589,"Silicone Kitchen Tongs","Kitchen",299,4.3
+590,"Electronic Bug Zapper","Home Appliances",599,4.2
+591,"Dryer Balls Set","Home Appliances",299,4.1
+592,"Handheld Steam Iron","Home Appliances",899,4.4
+593,"Digital Kitchen Scale","Kitchen",499,4.3
+594,"Rechargeable Hand Warmer","Health",399,4.2
+595,"Kitchen Sink Organizer Caddy","Kitchen",349,4.3
+596,"Portable Laptop Desk","Furniture",799,4.4
+597,"Knife Block Set","Kitchen",1499,4.6
+598,"LED Vanity Mirror","Health",899,4.5
+599,"Bamboo Phone Stand","Electronics",299,4.2
+600,"Smart Bathroom Scale","Health",799,4.4
+601,"Desktop File Organizer","Home Office",549,4.3
+602,"Collapsible Coffee Dripper","Kitchen",349,4.1
+603,"Magnetic Cable Organizer","Electronics",249,4.0
+604,"Multi-tool Pocket Knife","Tools",599,4.5
+605,"Cork Yoga Block Set","Fitness",499,4.3
+606,"Touchless Trash Can","Kitchen",999,4.5
+607,"Handheld Vacuum Cleaner","Home Appliances",1599,4.6
+608,"Bath Bomb Gift Set","Bath",499,4.2
+609,"Bamboo Toothbrush Set","Health",249,4.1
+610,"Folding Dish Rack","Kitchen",499,4.2
+611,"Rechargeable Book Light","Home Decor",299,4.1
+612,"Silicone Oven Mitts","Kitchen",399,4.3
+613,"Cable Management System","Home Office",399,4.2
+614,"Reusable Grocery Bags Set","Home Decor",349,4.2
+615,"Bamboo Laptop Desk","Furniture",899,4.4
+616,"Wall-Mounted Toothbrush Holder","Bath",249,4.0
+617,"Mini Security Camera","Home Security",1799,4.6
+618,"Vertical Laptop Stand","Home Office",549,4.3
+619,"Kitchen Timer","Kitchen",199,4.1
+620,"Window Security Alarm","Home Security",399,4.2
+621,"Waterproof Shower Speaker","Electronics",799,4.4
+622,"Bedside Organizer Caddy","Home Decor",399,4.2
+623,"Digital Cooking Thermometer","Kitchen",399,4.3
+624,"Foam Roller for Muscles","Fitness",599,4.4
+625,"Pet GPS Tracker","Pets",1499,4.6
+626,"Wine Bottle Chiller Stick","Kitchen",349,4.0
+627,"Stress Relief Toys Set","Health",299,4.1
+628,"Reusable Food Wrap","Kitchen",349,4.2
+629,"Slim Wallet RFID Blocking","Fashion",499,4.3
+630,"UV Phone Sanitizer Box","Electronics",799,4.4
+631,"Essential Oil Organizer","Health",349,4.1
+632,"Ear and Nose Hair Trimmer","Health",349,4.2
+633,"Camping Lantern LED","Outdoor",499,4.3
+634,"Floating Wall Shelves Set","Home Decor",899,4.5
+635,"Wine Aerator Pourer","Kitchen",299,4.2
+636,"Car Cup Holder Expander","Automotive",249,4.0
+637,"Vacuum Insulated Water Bottle","Kitchen",599,4.4
+638,"Bluetooth Sleep Headphones","Electronics",599,4.3
+639,"Adjustable Closet Organizer","Home Decor",799,4.4
+640,"Shoe Storage Box Set","Home Decor",699,4.3
+641,"Stainless Steel Wine Tumbler","Kitchen",399,4.2
+642,"Home Security Motion Sensor","Home Security",599,4.4
+643,"Bagless Vacuum Cleaner","Home Appliances",2499,4.6
+644,"Collapsible Food Storage Containers","Kitchen",499,4.3
+645,"Hand Grip Strengthener","Fitness",249,4.1
+646,"Pet Grooming Gloves","Pets",299,4.2
+647,"Spice Rack Organizer Set","Kitchen",699,4.4
+648,"Aroma Diffuser Humidifier","Home Decor",699,4.5
+649,"Laptop Privacy Screen","Electronics",699,4.3
+650,"Reusable Silicone Food Bags","Kitchen",399,4.2
+651,"Magnetic Window Cleaner","Home Appliances",499,4.3
+652,"Portable Power Bank 10000mAh","Electronics",899,4.6
+653,"Bamboo Bathtub Caddy","Bath",799,4.4
+654,"Car Backseat Organizer","Automotive",499,4.2
+655,"Fabric Shaver Defuzzer","Home Appliances",399,4.3
+656,"Self Watering Plant Pots","Home Decor",399,4.1
+657,"Silicone Food Storage Bags","Kitchen",399,4.2
+658,"Automatic Soap Dispenser","Bath",499,4.4
+659,"USB Desk Fan","Home Office",349,4.1
+660,"Handheld Frother","Kitchen",299,4.2
+661,"Electric Heated Blanket","Bedding",1499,4.5
+662,"Hair Towel Wrap","Bath",299,4.1
+663,"Knee Compression Sleeve","Health",399,4.3
+664,"Desk Drawer Organizer","Home Office",399,4.2
+665,"Motion Sensor Light","Home Decor",499,4.3
+666,"Digital Cooking Timer","Kitchen",249,4.1
+667,"Wool Dryer Balls","Home Appliances",299,4.2
+668,"Bluetooth Tracking Device","Electronics",599,4.4
+669,"Silicone Steamer Basket","Kitchen",399,4.3
+670,"Electric Hot Pot","Kitchen",999,4.5
+671,"Shower Mirror Fogless","Bath",399,4.2
+672,"Magnetic Wristband","Tools",299,4.1
+673,"Pet Water Fountain","Pets",899,4.5
+674,"Stainless Steel Compost Bin","Kitchen",599,4.3
+675,"Digital Body Fat Scale","Health",699,4.4
+676,"Collapsible Colander Set","Kitchen",399,4.2
+677,"Pet Odor Neutralizer Spray","Pets",299,4.1
+678,"Desktop Cord Organizer","Home Office",299,4.0
+679,"Facial Cleansing Brush","Health",499,4.3
+680,"Laptop Cooling Pad","Electronics",699,4.4
+681,"Produce Food Savers","Kitchen",299,4.0
+682,"Oven Thermometer","Kitchen",249,4.1
+683,"Insulated Lunch Bag","Kitchen",399,4.2
+684,"Digital Hygrometer","Home Decor",299,4.1
+685,"Tire Pressure Gauge","Automotive",249,4.2
+686,"Electric Bottle Warmer","Baby",499,4.3
+687,"Tablet Pillow Stand","Electronics",399,4.2
+688,"Jar Opener Tool","Kitchen",199,4.0
+689,"Teeth Whitening Kit","Health",699,4.3
+690,"Carpet Spot Remover","Home Appliances",399,4.2
+691,"Silicone Sink Strainer","Kitchen",149,4.1
+692,"Hanging Closet Organizer","Home Decor",499,4.3
+693,"Stain Remover Stick","Home Appliances",199,4.0
+694,"Handheld Clothes Steamer","Home Appliances",699,4.4
+695,"Pet Nail Clipper","Pets",299,4.2
+696,"Meal Prep Containers Set","Kitchen",699,4.4
+697,"Facial Ice Roller","Health",299,4.1
+698,"iPhone Fast Charger","Electronics",599,4.5
+699,"Digital Luggage Scale","Travel",299,4.2
+700,"Drain Hair Catcher","Bath",149,4.1
+701,"Electric Gooseneck Kettle","Kitchen",1299,4.6
+702,"Satin Sleep Bonnet","Health",249,4.1
+703,"Bamboo Fiber Dishcloths","Kitchen",299,4.2
+704,"Smart Wi-Fi Plug Mini","Electronics",499,4.3
+705,"Massage Roller Stick","Fitness",399,4.2
+706,"Himalayan Salt Lamp","Home Decor",599,4.4
+707,"Microwave Popcorn Popper","Kitchen",349,4.1
+708,"Plush Weighted Stuffed Animal","Kids",699,4.3
+709,"Silicone Cooking Utensil Set","Kitchen",799,4.5
+710,"Electronics Repair Tool Kit","Tools",499,4.3
+711,"Automatic Pet Feeder","Pets",1299,4.6
+712,"Stroller Organizer Bag","Baby",449,4.2
+713,"Reusable Gel Ice Packs","Health",299,4.1
+714,"Digital Tire Inflator","Automotive",1499,4.7
+715,"Bamboo Cooling Pillow","Bedding",899,4.4
+716,"Mini Label Maker","Home Office",699,4.3
+717,"Window Bird Feeder","Garden",449,4.2
+718,"Waterproof Cast Cover","Health",399,4.1
+719,"Microfiber Hair Towel","Bath",249,4.0
+720,"Digital Caliper Tool","Tools",599,4.4
+721,"Leather Desk Pad Protector","Home Office",799,4.3
+722,"Pet Dental Cleaning Kit","Pets",349,4.1
+723,"Mini Indoor Plant Set","Home Decor",499,4.3
+724,"Over-The-Sink Dish Rack","Kitchen",799,4.4
+725,"Portable Air Compressor","Automotive",1999,4.7
+726,"Floating Shelves Set","Home Decor",799,4.5
+727,"Compact Car Jump Starter","Automotive",2499,4.6
+728,"Travel Bottle Set","Travel",349,4.2
+729,"LED Shower Head","Bath",699,4.3
+730,"Vertical Mouse","Electronics",799,4.4
+731,"Vegetable Chopper Dicer","Kitchen",599,4.5
+732,"Waterproof Rain Poncho","Outdoor",299,4.0
+733,"Adjustable Standing Desk","Furniture",3999,4.7
+734,"Digital Hygrometer Thermometer","Home Decor",399,4.2
+735,"Anti-Fatigue Standing Mat","Home Office",799,4.5
+736,"Nonstick Waffle Maker","Kitchen",1299,4.6
+737,"Bike Phone Mount","Sports",349,4.2
+738,"Bamboo Laptop Stand","Home Office",799,4.4
+739,"Door Draft Stopper","Home Decor",299,4.1
+740,"Knee Brace Support","Health",499,4.3
+741,"Coffee Filter Holder","Kitchen",249,4.0
+742,"Spice Jars with Labels","Kitchen",699,4.4
+743,"Wool Dryer Balls Set","Home Appliances",299,4.2
+744,"Beard Grooming Kit","Health",699,4.5
+745,"Shower Door Bottom Seal","Bath",249,4.0
+746,"Packing Cubes Set","Travel",599,4.4
+747,"Flexible Phone Holder","Electronics",399,4.2
+748,"Nesting Mixing Bowls Set","Kitchen",899,4.5
+749,"Reading Glasses","Health",399,4.2
+750,"Compression Arm Sleeves","Sports",349,4.1
+751,"Succulent Planter Set","Home Decor",499,4.3
+752,"Wine Bottle Opener","Kitchen",599,4.4
+753,"Stainless Steel Coffee Filter","Kitchen",399,4.2
+754,"Digital Body Fat Scale","Health",799,4.5
+755,"Pocket Magnifier Glass","Health",249,4.0
+756,"Bamboo Dish Soap Dispenser","Kitchen",349,4.1
+757,"Reusable Makeup Remover Pads","Health",299,4.2
+758,"Indoor Bug Zapper","Home Appliances",699,4.3
+759,"Smartphone Photo Printer","Electronics",1999,4.6
+760,"Canvas Grocery Tote Bags","Home Decor",349,4.2
+761,"LED Plant Grow Light","Garden",799,4.5
+762,"Wireless Charging Station","Electronics",1299,4.6
+763,"Portable Mini Fridge","Kitchen",2999,4.7
+764,"Mug Warmer","Kitchen",499,4.3
+765,"Digital Indoor Thermometer","Home Decor",399,4.2
+766,"Tool Belt","Tools",699,4.4
+767,"Floating Pool Lights","Outdoor",499,4.3
+768,"Collapsible Water Bottle","Sports",349,4.1
+769,"Wine Decanter","Kitchen",899,4.5
+770,"Electric Toothbrush Holder","Bath",249,4.0
+771,"Lap Desk for Laptop","Home Office",799,4.4
+772,"Drawer Organizers Set","Home Decor",499,4.3
+773,"Tactical Flashlight","Outdoor",699,4.4
+774,"Silicone Baking Cups","Kitchen",249,4.1
+775,"Cat Water Fountain","Pets",899,4.5
+776,"Patio Umbrella Light","Outdoor",499,4.2
+777,"Vacuum Storage Bags","Home Decor",599,4.4
+778,"Adjustable Dumbbells","Fitness",2999,4.7
+779,"Food Processor","Kitchen",1999,4.6
+780,"Body Measuring Tape","Health",149,4.0
+781,"Electric Fly Swatter","Home Appliances",399,4.1
+782,"BBQ Grilling Tools Set","Kitchen",899,4.5
+783,"Car Windshield Cover","Automotive",499,4.2
+784,"Bluetooth Sleep Headphones","Electronics",699,4.3
+785,"Neck Reading Light","Electronics",299,4.1
+786,"Compost Bin Counter Top","Kitchen",499,4.2
+787,"Magnetic Wristband for Tools","Tools",349,4.3
+788,"Bike Repair Tool Kit","Sports",799,4.5
+789,"Lint Remover","Home Appliances",399,4.2
+790,"Wall Mount Key Holder","Home Decor",299,4.1
+791,"Electric Ice Cream Maker","Kitchen",1499,4.6
+792,"Cordless Water Flosser","Health",899,4.5
+793,"Under Cabinet Lighting","Home Decor",799,4.4
+794,"Digital Meat Thermometer","Kitchen",499,4.3
+795,"Indoor Plant Watering Globes","Garden",349,4.2
+796,"Wood Cutting Board Set","Kitchen",899,4.5
+797,"Bathroom Scale","Health",599,4.3
+798,"Smart Key Organizer","Home Decor",499,4.2
+799,"Ceramic Hair Straightener","Health",1499,4.6
+800,"Desk Headphone Stand","Electronics",499,4.3
+801,"Pressure Cooker","Kitchen",2499,4.7
+802,"Yoga Block Set","Fitness",399,4.3
+803,"Laptop Stand Riser","Home Office",699,4.4
+804,"Digital Safe Box","Home Security",2999,4.7
+805,"Drawer Dividers Set","Home Decor",399,4.2
+806,"Car Trash Can","Automotive",299,4.1
+807,"Dish Soap Dispenser","Kitchen",349,4.2
+808,"Folding Travel Backpack","Travel",799,4.5
+809,"Portable Electric Heater","Home Appliances",1299,4.5
+810,"Premium Herb Scissors","Kitchen",349,4.2
+811,"Reusable Mesh Produce Bags","Kitchen",299,4.1
+812,"Carbon Monoxide Alarm","Home Security",799,4.6
+813,"Running Armband","Sports",399,4.2
+814,"Fire Escape Ladder","Home Security",1999,4.7
+815,"Stainless Steel Tea Infuser","Kitchen",249,4.1
+816,"Digital Wall Clock","Home Decor",599,4.3
+817,"Bath Tub Tray Caddy","Bath",799,4.4
+818,"Hand Grip Strengthener","Fitness",299,4.2
+819,"Window Cleaning Robot","Home Appliances",3999,4.6
+820,"Smart Light Bulb","Electronics",499,4.3
+821,"Photo Light Box","Photography",1299,4.5
+822,"Electric Hard Boiled Egg Maker","Kitchen",699,4.3
+823,"Foam Yoga Blocks","Fitness",349,4.2
+824,"Wireless Charging Pad","Electronics",699,4.4
+825,"Plant Stand Set","Home Decor",799,4.5
+826,"Nonstick Cookware Set","Kitchen",1999,4.7
+827,"Back Stretcher Device","Health",699,4.3
+828,"Bluetooth Car Adapter","Automotive",499,4.2
+829,"Multi Tool Pliers","Tools",599,4.4
+830,"Reusable Shopping Bags","Home Decor",299,4.1
+831,"Door Security Bar","Home Security",699,4.5
+832,"Smartphone Ring Holder","Electronics",199,4.0
+833,"Lemon Squeezer","Kitchen",249,4.1
+834,"Car Air Purifier","Automotive",799,4.4
+835,"Leather Mouse Pad","Home Office",499,4.3
+836,"Folding Portable Fan","Electronics",599,4.2
+837,"Pet Hair Remover Roller","Pets",349,4.3
+838,"Wall Mounted Spice Rack","Kitchen",699,4.4
+839,"LED Motion Sensor Light","Home Decor",499,4.3
+840,"Patio String Lights","Outdoor",799,4.5
+841,"Digital Alarm Clock","Electronics",499,4.2
+842,"Massage Acupressure Mat","Health",999,4.5
+843,"Garden Pruning Shears","Garden",499,4.3
+844,"Infant Sleep Aid Machine","Baby",799,4.4
+845,"Foldable Storage Bins","Home Decor",499,4.3
+846,"Electric Nasal Aspirator","Baby",599,4.2
+847,"Pet Feeding Mat","Pets",299,4.1
+848,"Touch Screen Gloves","Clothing",349,4.0
+849,"Wall Mounted Toilet Paper Holder","Bath",349,4.1
+850,"Watercolor Paint Set","Arts & Crafts",699,4.4
+851,"Nail Polish Holder","Health",299,4.0
+852,"Wall Calendar 2023","Home Office",399,4.2
+853,"Garage Door Opener Remote","Home Appliances",799,4.5
+854,"Magnetic Knife Strip","Kitchen",599,4.3
+855,"Electric Ice Crusher","Kitchen",899,4.4
+856,"Wireless Ergonomic Keyboard","Electronics",1299,4.6
+857,"Adjustable Pet Gate","Pets",999,4.5
+858,"Silicone Basting Brush Set","Kitchen",299,4.2
+859,"Collapsible Silicone Funnel","Kitchen",199,4.0
+860,"Digital Indoor Air Quality Monitor","Home Appliances",1299,4.6
+861,"Running Water Bottle Belt","Sports",399,4.2
+862,"Wooden Bed Tray","Furniture",799,4.4
+863,"Shower Timer","Bath",249,4.0
+864,"Professional Knife Sharpener","Kitchen",799,4.5
+865,"Fabric Steamer","Home Appliances",999,4.6
+866,"Mini Projector","Electronics",2999,4.5
+867,"Foldable Shopping Cart","Home Decor",999,4.4
+868,"Bathroom Corner Shelf","Bath",499,4.2
+869,"Kitchen Compost Bin","Kitchen",599,4.3
+870,"Bike Phone Holder","Sports",399,4.2
+871,"Food Scale Digital","Kitchen",499,4.3
+872,"Hot Water Bottle","Health",349,4.1
+873,"Wireless Sport Earbuds","Electronics",999,4.5
+874,"Battery Operated Fan","Electronics",599,4.2
+875,"Wired Mouse","Electronics",399,4.1
+876,"Grilling Basket","Kitchen",499,4.3
+877,"Adjustable Laptop Riser","Home Office",899,4.5
+878,"Indoor Fly Trap","Home Appliances",499,4.2
+879,"Essential Oil Diffuser","Home Decor",699,4.4
+880,"Vegetable Spiralizer","Kitchen",499,4.3
+881,"Yoga Mat Carrier","Fitness",349,4.1
+882,"Cork Message Board","Home Office",499,4.2
+883,"Stainless Steel Cocktail Shaker","Kitchen",699,4.4
+884,"Washable Pet Pee Pads","Pets",499,4.3
+885,"LED Desk Lamp","Home Office",799,4.5
+886,"Ceramic Bathroom Soap Dish","Bath",249,4.0
+887,"Paint Brush Set","Arts & Crafts",499,4.3
+888,"Travel Toiletry Bag","Travel",499,4.3
+889,"Digital Reading Thermometer","Health",349,4.2
+890,"Cooling Towel","Sports",299,4.1
+891,"Ice Cube Tray with Lid","Kitchen",299,4.2
+892,"Car Phone Holder","Automotive",399,4.3
+893,"Non-stick Pancake Pan","Kitchen",599,4.4
+894,"Portable Air Cooler","Home Appliances",1999,4.6
+895,"Pet Car Seat Cover","Pets",799,4.5
+896,"Garden Kneeling Pad","Garden",399,4.2
+897,"Mechanical Pencil Set","Home Office",299,4.1
+898,"Digital Bathroom Scale","Health",699,4.4
+899,"Blender Bottle","Kitchen",399,4.2
+900,"Mosquito Repellent Bracelet","Outdoor",249,3.9
+901,"Collapsible Food Storage Containers","Kitchen",599,4.3
+902,"Electric Kettle Glass","Kitchen",999,4.5
+903,"Cord Cover Raceway Kit","Home Office",499,4.2
+904,"Headphone Hanger","Home Office",299,4.1
+905,"Baby Bath Kneeler","Baby",499,4.3
+906,"Multi-plug Outlet Extender","Electronics",399,4.2
+907,"Stroller Hooks","Baby",249,4.0
+908,"Garden Hose Nozzle","Garden",349,4.2
+909,"Electric Salt and Pepper Grinder","Kitchen",599,4.3
+910,"Selfie Stick Tripod","Electronics",499,4.2
+911,"Baby Nasal Aspirator","Baby",399,4.1
+912,"Desk Drawer Organizer","Home Office",399,4.2
+913,"Clothes Drying Rack","Home Appliances",799,4.4
+914,"Pet Bandana Set","Pets",249,4.0
+915,"Indoor TV Antenna","Electronics",699,4.3
+916,"Portable Laptop Table","Furniture",899,4.5
+917,"Waterproof Mattress Protector","Bedding",699,4.4
+918,"Wine Stopper Set","Kitchen",349,4.2
+919,"Desk Phone Stand","Home Office",299,4.1
+920,"Patio Light String","Outdoor",599,4.3
+921,"Baby Food Maker","Baby",1299,4.6
+922,"Rotating Makeup Organizer","Health",799,4.5
+923,"Phone Camera Lens Kit","Electronics",699,4.3
+924,"Smart Light Switch","Electronics",899,4.5
+925,"Vacuum Storage Bags","Home Decor",499,4.2
+926,"Memory Foam Bath Mat","Bath",499,4.3
+927,"Pasta Drying Rack","Kitchen",399,4.2
+928,"Ultrasonic Pest Repeller","Home Appliances",499,4.1
+929,"Wireless Charging Station","Electronics",999,4.5
+930,"Kid's Baking Set","Kitchen",499,4.3
+931,"Window Bird Feeder","Garden",499,4.2
+932,"Electric Milk Frother","Kitchen",599,4.4
+933,"Self-Watering Plant Pot","Garden",399,4.1
+934,"Wooden Sunglasses","Fashion",799,4.3
+935,"Wireless Security Camera","Home Security",1999,4.7
+936,"Grill Mat Set","Kitchen",399,4.2
+937,"Electric Guitar Tuner","Musical Instruments",299,4.1
+938,"Over-Sink Cutting Board","Kitchen",599,4.4
+939,"Digital Indoor Thermometer","Home Decor",399,4.2
+940,"Stroller Fan","Baby",399,4.1
+941,"Silicone Travel Bottles","Travel",349,4.2
+942,"Ski Goggles","Sports",799,4.4
+943,"Kid's Water Bottle","Kids",349,4.2
+944,"Seat Cushion for Office Chair","Home Office",699,4.4
+945,"Wall Hanging Planters","Home Decor",499,4.3
+946,"Fleece Blanket","Bedding",599,4.3
+947,"Bluetooth Speaker Waterproof","Electronics",999,4.5
+948,"Car Trunk Organizer","Automotive",699,4.4
+949,"Digital Kitchen Timer","Kitchen",299,4.1
+950,"Glass Meal Prep Containers","Kitchen",799,4.5
+951,"Silicone Spatula Set","Kitchen",399,4.3
+952,"Camping Hammock","Outdoor",799,4.5
+953,"Pet Training Clicker","Pets",149,4.0
+954,"Espresso Tamper","Kitchen",399,4.2
+955,"Ice Roller for Face","Health",299,4.1
+956,"Digital Distance Meter","Tools",899,4.5
+957,"Door Stopper","Home Decor",149,4.0
+958,"Portable Phone Charger","Electronics",799,4.5
+959,"Dog Training Treats","Pets",249,4.1
+960,"Shower Shelf Caddy","Bath",499,4.3
+961,"Digital Projection Alarm Clock","Electronics",799,4.4
+962,"Pasta Machine","Kitchen",1299,4.6
+963,"Blackout Curtains","Home Decor",999,4.5
+964,"Manual Coffee Grinder","Kitchen",699,4.4
+965,"Full Length Mirror","Home Decor",1299,4.6
+966,"Knitting Needles Set","Arts & Crafts",499,4.3
+967,"Silicone Stretch Lids","Kitchen",399,4.2
+968,"Cat Litter Mat","Pets",399,4.2
+969,"Portable Air Pump","Automotive",899,4.5
+970,"Guitar Capo","Musical Instruments",299,4.1
+971,"Electric Salt and Pepper Mill","Kitchen",599,4.3
+972,"Hanging Jewelry Organizer","Home Decor",399,4.2
+973,"Survival Bracelet","Outdoor",299,4.0
+974,"Digital Picture Frame","Electronics",1499,4.6
+975,"Pet Grooming Kit","Pets",699,4.4
+976,"Stainless Steel Mixing Bowls","Kitchen",799,4.5
+977,"Baby Carrier","Baby",1299,4.6
+978,"Laptop Backpack","Fashion",999,4.5
+979,"Drawer Dividers","Home Decor",399,4.2
+980,"Electric Facial Cleanser","Health",799,4.4
+981,"Acupressure Mat","Health",899,4.5
+982,"Bamboo Cutlery Set","Kitchen",399,4.2
+983,"Smart Key Finder","Electronics",499,4.3
+984,"Countertop Water Filter","Kitchen",1299,4.6
+985,"Yoga Straps","Fitness",249,4.0
+986,"Bonsai Tool Set","Garden",899,4.5
+987,"Waterproof Phone Case","Electronics",399,4.2
+988,"Knife Blade Sharpener","Kitchen",399,4.3
+989,"Baby Monitor","Baby",1999,4.7
+990,"USB Rechargeable Lighter","Home Decor",349,4.1
+991,"Digital Bathroom Scale","Health",699,4.4
+992,"Tennis Racket","Sports",999,4.5
+993,"Bluetooth Meat Thermometer","Kitchen",799,4.4
+994,"Anti-Snore Nasal Dilator","Health",299,4.0
+995,"Kitchen Utensil Set","Kitchen",699,4.4
+996,"Sports Water Bottle","Sports",399,4.2
+997,"Car Phone Mount","Automotive",399,4.3
+998,"Sleep Mask","Health",299,4.1
+999,"Bread Maker","Kitchen",2499,4.7
+1000,"Wooden Chess Set","Toys & Games",1299,4.6
+1001,"Bamboo Dish Rack","Kitchen",799,4.3
+1002,"Office Chair","Furniture",2999,4.6
+1003,"Blood Pressure Monitor","Health",999,4.5
+1004,"Floating Pool Lounger","Outdoor",899,4.4
+1005,"Microwave Rice Cooker","Kitchen",499,4.2
+1006,"Toddler Table and Chairs","Kids",1499,4.6
+1007,"Stainless Steel Water Bottle","Kitchen",499,4.3
+1008,"Leather Wallet","Fashion",699,4.4
+1009,"Electric Nose Hair Trimmer","Health",399,4.2
+1010,"Car Vacuum Cleaner","Automotive",999,4.5
+1011,"Wall Mounted Coat Rack","Home Decor",699,4.3
+1012,"Mini Elliptical Trainer","Fitness",2999,4.6
+1013,"Electric Egg Cooker","Kitchen",699,4.3
+1014,"Hanging Shower Caddy","Bath",499,4.2
+1015,"Adjustable Cell Phone Stand","Electronics",299,4.1
+1016,"Essential Oil Set","Health",799,4.4
+1017,"Fleece Heated Blanket","Bedding",1299,4.5
+1018,"Bamboo Toilet Paper","Bath",399,4.1
+1019,"Bento Lunch Box","Kitchen",499,4.3
+1020,"Tennis Ball Set","Sports",299,4.0
+1021,"Wireless Computer Mouse","Electronics",599,4.3
+1022,"Car Winter Snow Cover","Automotive",699,4.2
+1023,"Vegetable Chopper","Kitchen",499,4.3
+1024,"Insulated Grocery Bags","Home Decor",399,4.1
+1025,"Wine Aerator","Kitchen",349,4.2
+1026,"Smart Wi-Fi Light Switch","Electronics",899,4.5
+1027,"Fish Tank Automatic Feeder","Pets",399,4.0
+1028,"Massage Ball Set","Fitness",399,4.2
+1029,"Bamboo Toothbrush Set","Health",249,4.0
+1030,"Adjustable Desk Lamp","Home Office",699,4.4
+1031,"Digital Body Fat Scale","Health",799,4.5
+1032,"Yoga Block","Fitness",349,4.2
+1033,"Indoor Swing Chair","Furniture",2999,4.6
+1034,"Kids Art Easel","Kids",899,4.3
+1035,"Car Phone Holder Wireless Charging","Automotive",799,4.4
+1036,"Corner Shelf Unit","Home Decor",899,4.5
+1037,"Hanging Plant Basket","Garden",499,4.3
+1038,"Reusable Sandwich Bags","Kitchen",299,4.1
+1039,"Luggage Scale","Travel",399,4.2
+1040,"Coffee Bean Grinder","Kitchen",799,4.4
+1041,"Inflatable Travel Pillow","Travel",349,4.1
+1042,"Memory Foam Seat Cushion","Home Office",599,4.3
+1043,"Electric Fruit Juicer","Kitchen",1299,4.6
+1044,"Eco-Friendly Lunch Set","Kitchen",499,4.2
+1045,"Smart Body Scale","Health",999,4.5
+1046,"Portable Laptop Desk","Home Office",899,4.4
+1047,"Steam Iron","Home Appliances",1299,4.6
+1048,"Electric Pencil Sharpener","Home Office",399,4.2
+1049,"Wireless Security Doorbell","Home Security",1999,4.7
+1050,"Silicone Cooking Spoon Rest","Kitchen",199,4.0
+1051,"Over Door Towel Rack","Bath",399,4.2
+1052,"Smart Temperature Sensor","Electronics",599,4.3
+1053,"Jewelry Box Organizer","Home Decor",799,4.4
+1054,"Soap Dispenser Set","Bath",499,4.2
+1055,"Rubber Door Stopper","Home Decor",149,3.9
+1056,"Bike Repair Stand","Sports",1299,4.5
+1057,"Meat Tenderizer Tool","Kitchen",299,4.1
+1058,"Desk Cable Management","Home Office",399,4.2
+1059,"Milk Frother Machine","Kitchen",1299,4.6
+1060,"Makeup Brush Cleaner","Health",499,4.3
+1061,"Reading Light Clip","Electronics",299,4.1
+1062,"Teapot with Infuser","Kitchen",599,4.3
+1063,"Waterproof Hiking Backpack","Outdoor",1299,4.6
+1064,"Ceramic Plant Pots Set","Garden",599,4.4
+1065,"Digital Body Thermometer","Health",399,4.2
+1066,"Wall Picture Frames Set","Home Decor",799,4.5
+1067,"Hand Mixer Electric","Kitchen",899,4.4
+1068,"Wall Mounted Bottle Opener","Kitchen",199,4.0
+1069,"Weather Station","Home Decor",899,4.5
+1070,"Mini Stepper Exercise Machine","Fitness",1999,4.6
+1071,"Dish Drying Mat","Kitchen",299,4.1
+1072,"Wireless Earbuds Case","Electronics",399,4.2
+1073,"Floating Shelf Set","Home Decor",799,4.5
+1074,"Microwave Pasta Cooker","Kitchen",399,4.2
+1075,"Cold Brew Coffee Maker","Kitchen",699,4.4
+1076,"Phone Stand Ring","Electronics",199,4.0
+1077,"Clothes Steamer Handheld","Home Appliances",799,4.5
+1078,"Tool Box","Tools",899,4.4
+1079,"Electric Neck Massager","Health",999,4.5
+1080,"Sunscreen Spray","Health",349,4.1
+1081,"Salad Container To Go","Kitchen",399,4.2
+1082,"Microwave Bacon Cooker","Kitchen",349,4.1
+1083,"Anti-Fatigue Kitchen Mat","Kitchen",599,4.3
+1084,"Indoor Herb Garden Kit","Garden",799,4.4
+1085,"Reusable Makeup Remover Pads","Health",249,4.0
+1086,"Outdoor Camping Chair","Outdoor",999,4.5
+1087,"Wall Mounted Hair Dryer Holder","Bath",299,4.1
+1088,"Humidifier Filter Replacement","Home Appliances",299,4.0
+1089,"Compact First Aid Kit","Health",399,4.3
+1090,"Camping Multi-Tool","Outdoor",599,4.4
+1091,"Shower Foot Scrubber","Bath",349,4.2
+1092,"Desk Organizer Set","Home Office",699,4.4
+1093,"Knife Block Set","Kitchen",1499,4.7
+1094,"Waterproof Disposable Camera","Photography",399,4.0
+1095,"Phone Camera Tripod","Electronics",599,4.3
+1096,"Slow Cooker Timer","Kitchen",399,4.2
+1097,"Kitchen Cabinet Organizers","Kitchen",599,4.3
+1098,"Dog Frisbee Toy","Pets",249,4.1
+1099,"Electric Travel Iron","Travel",699,4.3
+1100,"LED Security Light","Home Security",799,4.4
+1101,"Pill Box Organizer","Health",299,4.1
+1102,"Bathroom Shelf Organizer","Bath",599,4.3
+1103,"Digital Clock Radio","Electronics",799,4.4
+1104,"Outdoor String Lights","Outdoor",699,4.5
+1105,"LED Bike Lights Set","Sports",499,4.3
+1106,"Swim Goggles","Sports",349,4.2
+1107,"Egg Cooker Electric","Kitchen",599,4.3
+1108,"Picnic Blanket","Outdoor",499,4.2
+1109,"Reusable Straw Set","Kitchen",249,4.1
+1110,"Handheld Vacuum Sealer","Kitchen",899,4.5
+1111,"Sunrise Alarm Clock","Electronics",999,4.5
+1112,"Kitchen Sink Caddy","Kitchen",399,4.2
+1113,"Dog Chew Toys","Pets",349,4.1
+1114,"Wooden Coat Rack","Home Decor",899,4.4
+1115,"Electric Hand Warmer","Health",499,4.2
+1116,"Mini Food Processor","Kitchen",999,4.5
+1117,"Tire Repair Kit","Automotive",599,4.3
+1118,"Drawer Organizers","Home Decor",499,4.2
+1119,"Pocket Knife Multitool","Tools",499,4.3
+1120,"Personal Blender","Kitchen",899,4.5
+1121,"Pet Grooming Gloves","Pets",349,4.2
+1122,"Kitchen Faucet Sprayer","Kitchen",699,4.4
+1123,"Noise Cancelling Earplugs","Health",299,4.1
+1124,"Picnic Basket Set","Outdoor",1299,4.6
+1125,"Rechargeable Flashlight","Tools",499,4.3
+1126,"Baby Monitor Camera","Baby",1999,4.7
+1127,"Adjustable Wrench Set","Tools",699,4.4
+1128,"Shower Hook Set","Bath",249,4.0
+1129,"Touch Screen Stylus Pen","Electronics",249,4.1
+1130,"Fabric Storage Bins","Home Decor",499,4.3
+1131,"Facial Sprayer","Health",349,4.2
+1132,"Toilet Brush Set","Bath",299,4.1
+1133,"Solar Outdoor Lights","Garden",599,4.4
+1134,"Adjustable Exercise Step","Fitness",799,4.5
+1135,"Kitchen Drawer Dividers","Kitchen",399,4.2
+1136,"Compression Socks","Health",399,4.3
+1137,"Handheld Shower Head","Bath",699,4.4
+1138,"Digital Light Timer","Electronics",399,4.2
+1139,"Garden Tool Set","Garden",899,4.5
+1140,"Stacking Coffee Mugs Set","Kitchen",599,4.3
+1141,"USB Hub Splitter","Electronics",499,4.2
+1142,"Memory Foam Travel Pillow","Travel",499,4.3
+1143,"Cat Toy Interactive","Pets",349,4.1
+1144,"Dry Erase Board","Home Office",499,4.2
+1145,"Cocktail Shaker Set","Kitchen",799,4.4
+1146,"Milk Frother Handheld","Kitchen",299,4.1
+1147,"Travel Jewelry Case","Travel",499,4.3
+1148,"Wireless Ergonomic Mouse","Electronics",799,4.4
+1149,"Hand Cream Set","Health",399,4.2
+1150,"Pet Paw Cleaner","Pets",399,4.1
+1151,"Spice Rack Organizer","Kitchen",699,4.4
+1152,"Massage Therapy Gun","Health",1999,4.7
+1153,"Umbrella Stand","Home Decor",499,4.2
+1154,"Clip-on Book Light","Electronics",299,4.1
+1155,"Portable Bidet","Bath",399,4.0
+1156,"Adjustable Weight Bench","Fitness",2999,4.6
+1157,"Portable Gas Stove","Outdoor",999,4.5
+1158,"Baby Pacifier Holder","Baby",199,4.0
+1159,"Bike Lock Cable","Sports",499,4.3
+1160,"Smart Plug","Electronics",499,4.3
+1161,"Silicone Oven Mitts","Kitchen",399,4.2
+1162,"Toilet Paper Storage","Bath",499,4.3
+1163,"Air Plant Holder","Home Decor",349,4.1
+1164,"Cuticle Oil Pen","Health",199,3.9
+1165,"Furniture Sliders","Home Decor",249,4.0
+1166,"Bamboo Straw Set","Kitchen",249,4.1
+1167,"Phone Gimbal Stabilizer","Electronics",1299,4.6
+1168,"LED Magnifying Glass","Health",399,4.2
+1169,"Waterproof Card Holder","Fashion",349,4.1
+1170,"Natural Loofah Sponge","Bath",199,3.9
+1171,"Salad Spinner","Kitchen",599,4.3
+1172,"Camping Lantern Rechargeable","Outdoor",699,4.4
+1173,"Car Seat Gap Filler","Automotive",299,4.1
+1174,"Shoe Rack Organizer","Home Decor",899,4.5
+1175,"Wind Chimes","Garden",499,4.2
+1176,"Egg Separator Tool","Kitchen",149,3.9
+1177,"Bike Water Bottle Holder","Sports",299,4.1
+1178,"Outdoor Motion Sensor Light","Home Security",799,4.4
+1179,"Massage Cushion","Health",999,4.5
+1180,"Adjustable Rowing Machine","Fitness",3999,4.7
+1181,"Citrus Juicer Manual","Kitchen",349,4.1
+1182,"Wrist Rest Keyboard Pad","Home Office",399,4.2
+1183,"Vacuum Sealer Machine","Kitchen",1499,4.6
+1184,"Digital Coin Bank","Home Decor",499,4.2
+1185,"Pet Cooling Mat","Pets",499,4.3
+1186,"Camping Cookware Set","Outdoor",999,4.5
+1187,"Laundry Hamper","Home Decor",699,4.3
+1188,"Bluetooth FM Transmitter","Automotive",499,4.2
+1189,"Electric Milk Steamer","Kitchen",899,4.4
+1190,"Guitar Stand","Musical Instruments",499,4.3
+1191,"Face Mask Sheet Set","Health",399,4.2
+1192,"Shower Curtain Liner","Bath",299,4.1
+1193,"Bed Sheet Clips","Bedding",199,4.0
+1194,"Bamboo Drawer Dividers","Home Decor",499,4.3
+1195,"Digital Metronome","Musical Instruments",349,4.1
+1196,"Dumpling Maker","Kitchen",299,4.0
+1197,"Baby Sleep Soother","Baby",699,4.4
+1198,"Outdoor Security Camera","Home Security",1999,4.7
+1199,"Rechargeable Battery Set","Electronics",599,4.3
+1200,"Toilet Bowl Cleaner","Bath",249,4.0
+1201,"Smart Light Dimmer","Electronics",799,4.4
+1202,"Power Strip Tower","Electronics",799,4.5
+1203,"Air Purifier Filter","Home Appliances",499,4.2
+1204,"Desktop Air Purifier","Home Appliances",1299,4.6
+1205,"Crib Mobile","Baby",599,4.3
+1206,"Acrylic Paint Set","Arts & Crafts",699,4.4
+1207,"Garden Watering Can","Garden",399,4.2
+1208,"Hot Air Popcorn Maker","Kitchen",799,4.3
+1209,"Bath Pillow","Bath",349,4.1
+1210,"Car Wireless Charger Mount","Automotive",799,4.5
+1211,"Cable Management Box","Home Office",499,4.2
+1212,"Waterproof Speaker","Electronics",999,4.5
+1213,"Mini Stepper Exercise Machine","Fitness",1999,4.6
+1214,"Solar Powered Garden Lights","Garden",599,4.3
+1215,"Tabletop Fire Bowl","Home Decor",799,4.4
+1216,"Shoe Deodorizer Balls","Home Appliances",199,3.9
+1217,"Ceramic Knife Set","Kitchen",799,4.5
+1218,"Soft Dog Bed","Pets",799,4.5
+1219,"Heat Gun","Tools",699,4.3
+1220,"Diaper Caddy Organizer","Baby",499,4.2
+1221,"Sofa Arm Tray","Home Decor",499,4.3
+1222,"Swimming Pool Thermometer","Outdoor",299,4.0
+1223,"Portable Electric Tire Inflator","Automotive",1499,4.6
+1224,"Digital Humidity Meter","Home Appliances",399,4.2
+1225,"Emergency Escape Tool","Automotive",299,4.4
+1226,"Dimmable Desk Lamp","Home Office",799,4.4
+1227,"Bed Canopy","Home Decor",999,4.5
+1228,"Baby Food Storage","Baby",399,4.2
+1229,"Puzzle Mat","Kids",699,4.3
+1230,"Rechargeable Hand Warmer","Health",499,4.2
+1231,"Neck Reading Light","Electronics",349,4.1
+1232,"Kitchen Food Scale","Kitchen",499,4.3
+1233,"Indoor Bug Trap","Home Appliances",599,4.2
+1234,"Art Easel","Arts & Crafts",899,4.4
+1235,"Electric Wine Opener","Kitchen",699,4.3
+1236,"Bamboo Charging Station","Electronics",799,4.4
+1237,"Anti-Theft Backpack","Travel",1299,4.6
+1238,"Apple Peeler Corer","Kitchen",399,4.2
+1239,"Electric Bug Zapper Racket","Home Appliances",399,4.2
+1240,"Wood Polish","Home Appliances",299,4.1
+1241,"Retractable Clothesline","Home Appliances",399,4.2
+1242,"Portable Door Lock","Travel",399,4.3
+1243,"Dog Training Clicker","Pets",149,4.0
+1244,"BBQ Temperature Controller","Kitchen",1499,4.7
+1245,"Inflatable Travel Neck Pillow","Travel",349,4.1
+1246,"Wireless Headphones","Electronics",1499,4.6
+1247,"Toilet Light","Bath",299,4.0
+1248,"Baby Monitor with Camera","Baby",1999,4.7
+1249,"Digital Tire Pressure Gauge","Automotive",399,4.2
+1250,"Laptop Stand with Cooling Fan","Electronics",799,4.4
+1251,"Compact Sewing Kit","Home Appliances",299,4.1
+1252,"Neck Hammock","Health",699,4.3
+1253,"Car Vent Phone Mount","Automotive",349,4.2
+1254,"Solar Power Bank","Electronics",999,4.5
+1255,"Small Space Heater","Home Appliances",899,4.4
+1256,"Portable Indoor Grill","Kitchen",1499,4.6
+1257,"Meat Tenderizer Tool","Kitchen",299,4.1
+1258,"Neoprene Lunch Bag","Kitchen",399,4.2
+1259,"Silicone Oven Rack Guards","Kitchen",249,4.0
+1260,"Digital Weight Scale","Health",699,4.4
+1261,"Ceramic Diffuser","Home Decor",799,4.5
+1262,"Bamboo Shower Bench","Bath",899,4.4
+1263,"Bird Feeder Window Mount","Garden",499,4.2
+1264,"Car Trash Can","Automotive",349,4.1
+1265,"Silicone Baking Mat Set","Kitchen",399,4.3
+1266,"Wine Gift Set","Kitchen",999,4.5
+1267,"Emergency Flashlight Radio","Electronics",699,4.4
+1268,"Kids' Toothbrush Set","Health",299,4.2
+1269,"Portable Electric Tire Inflator","Automotive",1499,4.6
+1270,"Travel Neck Pillow","Travel",399,4.2
+1271,"Gardening Trowel Set","Garden",499,4.3
+1272,"Kitchen Knife Sharpener","Kitchen",399,4.3
+1273,"Makeup Mirror LED","Health",699,4.4
+1274,"Fridge Storage Containers","Kitchen",499,4.2
+1275,"Bluetooth Tracker","Electronics",499,4.3
+1276,"Car Dash Camera","Automotive",1299,4.6
+1277,"Computer Privacy Screen","Electronics",799,4.3
+1278,"Baby Sleep Sound Machine","Baby",699,4.4
+1279,"Mosquito Net for Bed","Home Decor",699,4.3
+1280,"Phone Camera Lens Kit","Electronics",699,4.3
+1281,"Plant Grow Light","Garden",599,4.4
+1282,"Meat Thermometer Digital","Kitchen",499,4.3
+1283,"Wall Clock Silent","Home Decor",599,4.3
+1284,"Shower Caddy Hanging","Bath",499,4.2
+1285,"Patio Umbrella Light","Outdoor",399,4.1
+1286,"Motion Sensor Trash Can","Kitchen",1299,4.5
+1287,"Paint by Numbers Kit","Arts & Crafts",499,4.2
+1288,"Mini Fridge for Bedroom","Home Appliances",2999,4.6
+1289,"Laptop Privacy Screen","Electronics",799,4.3
+1290,"Hammock Chair","Outdoor",1299,4.5
+1291,"Wine Bottle Stopper Set","Kitchen",349,4.1
+1292,"Fishing Rod and Reel Combo","Sports",1499,4.6
+1293,"Retro Alarm Clock","Home Decor",499,4.2
+1294,"Kids' Headphones","Electronics",599,4.3
+1295,"Cold Press Juicer","Kitchen",2499,4.7
+1296,"String Lights with Remote","Home Decor",599,4.3
+1297,"Bathroom Towel Rack","Bath",599,4.3
+1298,"Reusable Shopping Bags Set","Home Decor",399,4.2
+1299,"Electric Bug Zapper","Home Appliances",699,4.4
+1300,"Grill Brush and Scraper","Kitchen",399,4.2
+1301,"Anti-Chafe Balm","Sports",299,4.1
+1302,"Electric Food Scale","Kitchen",499,4.3
+1303,"Camping Stove Portable","Outdoor",899,4.5
+1304,"Beard Grooming Kit","Health",699,4.4
+1305,"Baby Bath Thermometer","Baby",299,4.1
+1306,"Mini Refrigerator","Kitchen",2999,4.6
+1307,"Wireless Earbuds","Electronics",1499,4.7
+1308,"Collapsible Water Bottle","Sports",349,4.2
+1309,"Gardening Gloves","Garden",299,4.1
+1310,"Electric Knife","Kitchen",799,4.3
+1311,"Bamboo Toilet Paper Holder","Bath",399,4.2
+1312,"Bean Bag Chair","Furniture",1499,4.5
+1313,"Electric Coffee Percolator","Kitchen",899,4.4
+1314,"Car Headrest Hook","Automotive",199,4.0
+1315,"Electric Hand Warmer","Health",499,4.2
+1316,"Wall Hanging Organizer","Home Decor",499,4.3
+1317,"Compact Mirror LED","Health",299,4.1
+1318,"Baby Teething Toys Set","Baby",349,4.2
+1319,"Electric Fly Swatter","Home Appliances",299,4.0
+1320,"Wool Dryer Balls","Home Appliances",299,4.1
+1321,"Adjustable Rolling Cart","Home Decor",899,4.5
+1322,"Electric Tire Inflator","Automotive",1499,4.6
+1323,"Rechargeable Reading Light","Electronics",399,4.2
+1324,"Electric Sandwich Maker","Kitchen",799,4.4
+1325,"Car Side Window Sunshade","Automotive",399,4.1
+1326,"Milk Frother Handheld","Kitchen",299,4.2
+1327,"Mini Foldable Drone","Electronics",1999,4.6
+1328,"Facial Ice Roller","Health",299,4.1
+1329,"LED Plant Grow Light","Garden",699,4.4
+1330,"Drain Snake Cleaner","Home Appliances",299,4.1
+1331,"Hammock with Stand","Outdoor",1999,4.7
+1332,"Cookie Baking Sheet Set","Kitchen",699,4.4
+1333,"Car Seat Gap Filler","Automotive",299,4.1
+1334,"Window Bird Feeder","Garden",499,4.3
+1335,"Kitchen Digital Timer","Kitchen",299,4.1
+1336,"Picnic Blanket Waterproof","Outdoor",599,4.3
+1337,"Standing Desk Converter","Home Office",1999,4.6
+1338,"Essential Oil Diffuser","Home Decor",699,4.4
+1339,"Body Measuring Tape","Health",199,4.0
+1340,"Outdoor Camping Chair","Outdoor",999,4.5
+1341,"Wireless Door Sensor","Home Security",499,4.3
+1342,"Baby Sleep Sack","Baby",499,4.2
+1343,"Electric Foot File","Health",499,4.2
+1344,"Electric Milk Frother","Kitchen",599,4.3
+1345,"Portable Clothes Steamer","Home Appliances",799,4.4
+1346,"Car Steering Wheel Cover","Automotive",399,4.2
+1347,"Hanging Shower Caddy","Bath",499,4.3
+1348,"Foldable Rain Poncho","Outdoor",249,4.0
+1349,"Compost Bin Indoor","Kitchen",499,4.2
+1350,"Drawer Organizer Set","Home Decor",599,4.3
+1351,"Makeup Brush Set","Health",699,4.4
+1352,"USB Wall Charger","Electronics",399,4.2
+1353,"Dog Leash Retractable","Pets",499,4.3
+1354,"Spice Jar Set","Kitchen",699,4.4
+1355,"Electric Fruit Peeler","Kitchen",599,4.2
+1356,"Neck Reading Light","Electronics",349,4.1
+1357,"Reusable Produce Bags","Kitchen",299,4.2
+1358,"Pet Hair Remover","Pets",399,4.2
+1359,"Car Air Freshener","Automotive",199,4.0
+1360,"Stackable Storage Bins","Home Decor",699,4.4
+1361,"Electric Toothbrush","Health",999,4.6
+1362,"Smart Digital Alarm Clock","Electronics",699,4.3
+1363,"Bamboo Bath Mat","Bath",599,4.3
+1364,"Wine Glass Set","Kitchen",799,4.5
+1365,"Garden Pruning Shears","Garden",399,4.2
+1366,"Kids' Water Bottle","Kids",349,4.1
+1367,"Electric Can Opener","Kitchen",599,4.3
+1368,"Jewelry Cleaning Kit","Health",399,4.2
+1369,"Cordless Drill Set","Tools",1999,4.7
+1370,"Wireless Charging Stand","Electronics",799,4.4
+1371,"Bluetooth Karaoke Microphone","Electronics",799,4.3
+1372,"Ceramic Plant Pots Set","Garden",599,4.4
+1373,"Digital Body Weight Scale","Health",699,4.4
+1374,"Cold Brew Coffee Maker","Kitchen",699,4.4
+1375,"LED Desk Lamp","Home Office",799,4.5
+1376,"Waterproof Picnic Blanket","Outdoor",599,4.3
+1377,"Dog Treat Pouch","Pets",299,4.1
+1378,"Electric Air Duster","Electronics",599,4.3
+1379,"Adjustable Laptop Stand","Home Office",799,4.5
+1380,"Bread Box","Kitchen",699,4.3
+1381,"Car Phone Mount","Automotive",399,4.2
+1382,"Camping Tent 2-Person","Outdoor",1999,4.6
+1383,"Touchless Soap Dispenser","Bath",599,4.4
+1384,"Wine Decanter","Kitchen",899,4.5
+1385,"Foldable Shopping Cart","Home Decor",999,4.4
+1386,"Digital Thermometer","Health",399,4.3
+1387,"Under Desk Foot Rest","Home Office",599,4.3
+1388,"Shower Bluetooth Speaker","Electronics",799,4.4
+1389,"Stainless Steel Straws Set","Kitchen",299,4.2
+1390,"Reading Glasses Blue Light","Health",499,4.3
+1391,"Hanging Toiletry Bag","Travel",499,4.3
+1392,"Mini Refrigerator","Kitchen",2999,4.6
+1393,"Wall Mounted Toothbrush Holder","Bath",299,4.1
+1394,"Folding Yoga Mat","Fitness",599,4.3
+1395,"Electric Cheese Grater","Kitchen",599,4.2
+1396,"Bamboo Phone Stand","Electronics",299,4.1
+1397,"Smart Home Security System","Home Security",3999,4.8
+1398,"Sleeping Eye Mask","Health",299,4.2
+1399,"Kitchen Utensil Set","Kitchen",799,4.5
+1400,"Waterproof Bike Phone Mount","Sports",399,4.2
