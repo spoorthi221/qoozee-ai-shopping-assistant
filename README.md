@@ -17,7 +17,7 @@ A Streamlit application that provides an AI-powered shopping experience with rec
 git clone https://github.com/yourusername/qoozee-shopping-assistant.git
 
 # Navigate to the project directory
-cd qoozee-shopping-assistant
+cd qoozee-ai-shopping-assistant
 
 # Install dependencies
 pip install -r requirements.txt
